@@ -3,7 +3,7 @@
 # Asma Kerkouri
 
 <a href="https://github.com/asmakerkouri">
-<img alt="Asma Kerkouri — DevOps & AI Engineer" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=1E90FF&center=true&vCenter=true&width=820&lines=DevOps+%26+AI+Engineer+%C2%B7+MLOps;From+notebook+to+production+%E2%80%94+CI%2FCD%2C+IaC%2C+Kubernetes;Computer+Vision+2D%2F3D+%C2%B7+point+clouds+%26+skeletons;LLM+agents+%26+hybrid+RAG+%C2%B7+Big+Data+with+Spark;Shipping+models%2C+not+only+training+them"/>
+<img alt="Asma Kerkouri — DevOps & AI Engineer" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=1E90FF&center=true&vCenter=true&width=1000&lines=DevOps+%26+AI+Engineer+%C2%B7+MLOps;From+notebook+to+production+%E2%80%94+CI%2FCD%2C+IaC%2C+Kubernetes;Computer+Vision+2D%2F3D+%C2%B7+point+clouds+%26+skeletons;LLM+agents+%26+hybrid+RAG+%C2%B7+Big+Data+with+Spark;Shipping+models%2C+not+only+training+them"/>
 </a>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=asmakerkouri&color=1E90FF&style=for-the-badge&label=Profile+Views)](https://github.com/asmakerkouri)
